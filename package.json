@@ -1,0 +1,18 @@
+{
+  "name": "preformance_indicator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jamel M'rad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "os": "^0.1.2",
+    "perf_hooks": "^0.0.1"
+  }
+}
